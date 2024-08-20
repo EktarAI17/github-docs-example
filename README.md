@@ -64,7 +64,7 @@ You can use the following markdown format to create tables (can use 'markdown' o
 | Cloud with lightning  | `:cloud_with_lightning:` | 🌩️ |
 ```
 Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options.
-[<sup>[2]</sup>] (#external-references)
+[<sup>[2]</sup>](#external-references)
 
 ## External References
 - [GitHub Flavored Markdown Spec](https://github.github.com/en/get-started/gfm)
