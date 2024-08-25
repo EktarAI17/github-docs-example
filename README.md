@@ -76,7 +76,7 @@ You can use the following markdown format to create tables (can use 'markdown' o
 Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options.
 [<sup>[2]</sup>](#external-references)
 
-[Secret Window Hidden Garden](secret-Window/hidden-garden.md)
+[Secret Window Hidden Garden](secret-window/hidden-garden.md)
 ## External References
 - [GitHub Flavored Markdown Spec](https://github.github.com/en/get-started/gfm)
 - [Basic writing and formatting syntax (Github Flavored Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
