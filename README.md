@@ -35,6 +35,16 @@ ZeroDivisionError: division by zero
 
 - above is for quoting block/ breaking formatting
 
+When you can, always provide a codeblock instead of a screenshot.
+If you need to take a screensot make sure it's not a photo from your phone.
+## Step 2 - How to take screenshots
+
+Do not take screenshot from phone and paste it
+
+The screenshot from the computer should look like below:
+
+![screenshot_from_computer](assets/screenshot_github_learn_code.png)
+
 ## Step 3 - Use Github Flavoured Markdown(GFM) Task Lists
 
 Github extends Markdown to have a list where you can check off items. [<sup>[1]</sup>](#external-references)
